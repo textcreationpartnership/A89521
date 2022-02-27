@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Patrick Earl of March-mount, &amp;c., His Majesties High Commissioner to the Parliament of Scotland, on Tuesday the nineteenth of July, 1698. The speech of James Viscount of Seafield, Principal Secretary of State, and president to the Parliament of Scotland, on Tuesday  the nineteenth of July 1698.</title>
+            <author>Marchmont, Patrick Hume, Earl of, 1641-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89521</idno>
+            <idno type="STC">Wing M586</idno>
+            <idno type="STC">ESTC R42583</idno>
+            <idno type="EEBO-CITATION">36282380</idno>
+            <idno type="OCLC">ocm 36282380</idno>
+            <idno type="VID">150124</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150124)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2232:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Patrick Earl of March-mount, &amp;c., His Majesties High Commissioner to the Parliament of Scotland, on Tuesday the nineteenth of July, 1698. The speech of James Viscount of Seafield, Principal Secretary of State, and president to the Parliament of Scotland, on Tuesday  the nineteenth of July 1698.</title>
+                  <author>Marchmont, Patrick Hume, Earl of, 1641-1724.</author>
+                  <author>Findlater, James Ogilvy, Earl of, 1663-1730. Speech of James Viscount of Seafield ... president to the Parliament of Scotland, on Tuesday the nineteenth of July 1698.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Politics and government --  1689-1745.</term>
+               <term>Scotland --  History --  1689-1745.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:150124:1"/>
+            <head>THE SPEECH OF PATRICK <hi>Earl of</hi> March-mount,
+<hi>&amp;c.</hi> His Majeſties High Commiſſioner to the
+<hi>Parliament</hi> of <hi>SCOTLAND.</hi>
+            </head>
+            <opener>
+               <date>On <hi>Tueſday</hi> the Nineteenth of <hi>July.</hi>
+1698.</date>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>AS His Majeſties gracious Letter to you now read in your hearing, car<g ref="char:EOLhyphen"/>ries very plain and full Expreſſions of His Eſteem, and Acceptance of the many Proofs you have given of your Loyalty and good Affection to His Perſon and Government. So His calling you together at this time when the Condition of Affairs is ſo much Changed, tho' He cannot be pre<g ref="char:EOLhyphen"/>ſent with you, is a clear evidence of the entire Truſt and Confidence He has in you.</p>
+            <p>His Majeſty did intend to have held this Seſſion of Parliament in Perſon, but the preſent Circumſtances of Affairs having hindred His coming; It has pleaſed Him to appoint me to be His Commiſſioner in it. And I will earneſtly endeavour, to manifeſt that Fidelity and Zeal for His Majeſties Ser<g ref="char:EOLhyphen"/>vice, and the good of this Kingdom, which His Majeſty doth expect: and I confidently hope, that your Wiſdom and Abilities will not only bear with, but alſo ſuſtain me under the weakneſses which I may juſtly acknowledge: So as the publick Intereſt may thereby be at no prejudice.</p>
+            <p>His Majeſty has graciouſly given you full Aſſurance, that He is firmly reſol<g ref="char:EOLhyphen"/>ved, to make it his principal Care to maintain your Religion, Laws and Li<g ref="char:EOLhyphen"/>berties, and <hi>Presbyterian</hi> Government in this Church; And I am com<g ref="char:EOLhyphen"/>manded to let you know, that He is fully reſolved to continue the ſame: And as his Majeſty has told you, that he will give all due encouragement for promoting your Trade: So I am commanded in His Name to aſſure you, that His Majeſty is firmly reſolved to maintain the Priviledges of the Trade of this Kingdom, and particularly theſe eſtabliſhed by Treaties, Laws or Cuſtoms with other Nations.</p>
+            <p>I am both fully inſtructed in what His Majeſty judgeth to be neceſſary for the ſupp<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of His Government, and the Safety of this Kingdom; and have
+<pb n="2" facs="tcp:150124:2"/>full power for paſſing ſuch Laws for the good of His People, as appear to be moſt needfull at preſent.</p>
+            <p>It is not to be doubted, but that as His Majeſty thinks, that the fulleſt In<g ref="char:EOLhyphen"/>formation he could have what Laws are fit to be made, would be His hearing Free-reaſonings in Parliament upon them by you who are ſo much intereſted, and have your Minds ſo much taken up about them; So you will think, that His Majeſty is beſt capable to Diſcover and Diſcerne upon the whole Matter, in the Bulk and Sum, what is fit and neceſſary to be done at this Time for the common Intereſt, as having a clearer Veiw of the bad Deſigns of our Enemies, and of the many Peices joyned together in that wiſe Contrivance, which (by the bleſſing of GOD) has been the ſupport of Affairs, than we can have.</p>
+            <p>You may very juſtly be perſwaded, that His Majeſties Judgement of theſe Matters, is ſolidly founded, and much to be relyed on; Not only becauſe he is highly concerned, both upon account of Honour and Intereſt, but like<g ref="char:EOLhyphen"/>wiſe, becauſe he is a Prince of deep Underſtanding and perpetual Application to Buſineſs: And has turned up all the Sides of theſe Grounds of Judge<g ref="char:EOLhyphen"/>ment which he ſees in a truer Light, and at a nearer Diſtance than we do.</p>
+            <p>I am commanded to repreſent to you, that the continuing the Troops u<g ref="char:EOLhyphen"/>pon the preſent eſtabliſhment, is, What His Majeſty judgeth to be abſolutely neceſſary, for the Support of His Government, the Safety of the Countrey, and your Preſervation; And that His Majeſty is no ways doubtfull, but you will be convinced of it, and will provide ſuteable Supplies for mentaining them: And it's certainly moſt fit, that this be the firſt thing you take under your Conſideration, as what concerns the All: And then you can proceed to o<g ref="char:EOLhyphen"/>ther things recommended to you by his Majeſty, or which may be pro<g ref="char:EOLhyphen"/>poſed.</p>
+            <div type="conclusion">
+               <opener>
+                  <salute>My Lords and Gentlemen,</salute>
+               </opener>
+               <p>Tho I am unwilling to take up much of your time, and to detain you from your Buſineſs, yet I cannot omit to invite you, to conſider ſeriouſly one thing which I am perſwaded cannot eaſiely eſcape the particular nottice of any here, that is, in what your gracious and kind Soveraign places the chief Satisfaction he has in bringing the great and dangerous War, wherein he has been ingad<g ref="char:EOLhyphen"/>ged to an End by an honorable Peace: Even the Proſpect he has of the Proſ<g ref="char:EOLhyphen"/>perity and Happineſs of His good Subjects.</p>
+               <p>His Majeſty undertook an enterpriſe almoſt deſperate in the Opinion of all <hi>Europe,</hi> he has followed it out and maintained it with imparralelled Courage and Conſtancy; He has expoſed his precious Life and Perſon in paſſing the Seas many times, in faceing and fighting his Enemies in many Battles: The ſecret Conſpiracies againſt Him have been many, yet (thanks to the Eternal GOD) he has been wonderfully ſupported and preſerved, and certainly His Majeſty has a very gratefull Senſe of, and a great Satisfaction in it. But His greateſt Satisfaction is the Proſpect which he has of the Proſperity and Hap<g ref="char:EOLhyphen"/>pineſs of his good Subjects; This cannot be too often repeated, and is ne<g ref="char:EOLhyphen"/>ver to be forgot: Nay I am ſure it leaves ſuch an Impreſſion upon your wor<g ref="char:EOLhyphen"/>thy Spirits and Minds as is becoming for theſe, at whoſe inſtance and for whoſe behove ſo great things have been undertaken and performed, and I am als ſure there is no
+<hi>Scots</hi> man (that has a good effection to His Majeſty, and to the happy Revolution, and the Work of God amongſt us, and a good un<g ref="char:EOLhyphen"/>derſtanding to diſcern what is neceſſary upon this Occaſion, which I hope all here have, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but who will honeſtly, cheerfully and readily give ſuch proofs of Gratitude to, and truſt in His Majeſty, as ſmall more and more endear to him this his Antient Kingdom, And honeſt hearted People.</p>
+            </div>
+         </div>
+         <div type="speech">
+            <pb n="3" facs="tcp:150124:3"/>
+            <head>
+               <hi>THE SPEECH OF JAMES</hi> Viſcount of <hi>Seafield,</hi> Prin<g ref="char:EOLhyphen"/>cipal Secretary of State, and Preſident to the PARLIAMENT <hi>OF SCOTLAND.</hi>
+            </head>
+            <opener>
+               <date>On <hi>Tueſday</hi> the Nineteenth of <hi>July</hi>
+1698.</date>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>YOu have given many Evidences of your great Zeal, Duty and Af<g ref="char:EOLhyphen"/>fection to His Majeſties Royal Perſon and Government, and His Majeſty has intire Truſt and Confidence in you, as is fully expreſt in his moſt gracious Letter, and by my Lord Commiſ<g ref="char:EOLhyphen"/>ſioner His Grace in His Name.</p>
+            <p>His Majeſty is very ſenſible that you did cheerfully provide ſuitable Supplies for maintaining thoſe Troops that were thought needful for your Defence at Home, whereby you ſecured Peace and Quiet within this Kingdom during the War.</p>
+            <p>You alſo Raiſed and Recruited the Regiments of this Kingdom, that were imployed in His Majeſties Service Abroad, for the Support and Defence of the Common Intereſt of <hi>Europe,</hi> as well as the Security of His Majeſties Do<g ref="char:EOLhyphen"/>minions.</p>
+            <p>The vigorous Proſecution of the War, and the Blesſing of God Almighty upon His Majeſties Endeavours, has procured us an Honourable Peace; And therefore His Majeſty has upon this Occaſion called you together, that you may provide for your own Safety and better Eſtabliſhment.</p>
+            <p>You will eaſily be convinced, that we have many Enemies both at Home and Abroad, ready to lay hold of any Opportunity to diſturb our preſent Peace and Tranquillity.</p>
+            <p>The King knows our Circumſtances and Dangers better than we do our ſelves, and is certainly the beſt Judge of what is needful, and he has told you plainly, that the Troops which He has Eſtabliſhed, are indiſpenſibly neceſ<g ref="char:EOLhyphen"/>ſary for your Preſervation.</p>
+            <p>His Majeſty does therefore expect, that you will proceed in this Matter with Cheerfulneſs and Unanimity, to the Diſcouragement of His and your <pb n="4" facs="tcp:150124:4"/>Enemies; And as the Subſidies that are demanded of you, are to be imploy<g ref="char:EOLhyphen"/>ed for your own Safety, ſo they will again circulat amongſt you, and cannot diminiſh the wealth, nor prejudge the Intereſt of the Nation.</p>
+            <p>His Majeſty has alwiſe judged his Intereſt to be inſeperable from yours; He has been the powerfull Inſtrument of God Almighty in reſcueing you from Popery and Arbitrary Government: He has expoſed His Royal Perſon to the greateſt Dangers for the common Safety, and all that have the Occaſion to know his Meaſures muſt be convinced, that the Happineſs and Proſperity of his Subjects is His chief care and concern.</p>
+            <p>In His Reign you have the full enjoyment of your Religion, Laws and Li<g ref="char:EOLhyphen"/>berties, you have alſo <hi>Presbyterian</hi> Government eſtabliſhed in this Church which His Majeſty has declared he will maintain, and you have many good Laws and Conſtitutions granted for the Eaſe and Satisfaction of the Nation.</p>
+            <p>Seing then, that by him you enjoy all theſe and many other Blesſings, you will certainly judge it your intereſt and Duty to comply with what is now only propoſed as neceſſary to render you Secure, againſt the Deſigns of His and your Enemies</p>
+            <p>His Majeſty was reſolved to have been preſent with you in this Seſsion of Parliament, that he might have more perfectly underſtood what Laws were fit for the welfare and Satisfaction of his Subjects; But the great Affairs in which he is neceſſarly ingadged, not allowing us that happineſs, he has fully inſtructed my Lord Commiſsioner his Grace, to paſs ſuch Acts as appear to His Majeſty moſt proper for the Benefit and intereſt of this Kingdom; And He has given full Aſſurances, that he will give all Encouragement for pro<g ref="char:EOLhyphen"/>moting Trade, and particularly, that he will protect the Priviledges of the Tread of this Kingdom eſtabliſhed by Laws, Treaties, and Cuſtoms with o<g ref="char:EOLhyphen"/>ther Nations.</p>
+            <div type="conclusion">
+               <opener>
+                  <salute>My Lords and Gentlemen,</salute>
+               </opener>
+               <p>I am very ſenſible of my own unfitneſs for the Station in which it has pleaſed his Majeſty to imploy me; But your ready Complyance with what has been propoſed by his Majeſtie on other Occaſions, did chiefly encourage me to ac<g ref="char:EOLhyphen"/>cept, and to hope for an happy Concluſion to this Seſsion: To the Satiſ<g ref="char:EOLhyphen"/>faction of the King, the Honour of the Government, and the Security of the Nation.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Succeſſors of
+<hi>Andrew Anderſon,</hi> Printer to the King's moſt Excellent Majeſty,
+<hi>Anno Domini</hi> 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
